@@ -26,4 +26,4 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 Copyright (c) 2014, Félix Hartmann
-Modified version if the software with Qt4/PySide backend instead of wx.
+Modified version of the software with Qt4/PySide instead of wx.
